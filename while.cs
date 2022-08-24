@@ -1,5 +1,5 @@
 ﻿using System;
-
+// this program control the quest then do it.
 namespace Ouz
 {
     class Ouz
