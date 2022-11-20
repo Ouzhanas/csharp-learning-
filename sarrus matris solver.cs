@@ -1,5 +1,5 @@
 using System;
-//Oğuzhan Bintepe 200106206026
+
 class Sarrus
 {
     static void Main()
